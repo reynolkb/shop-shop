@@ -2,7 +2,8 @@ import React, { useEffect } from "react";
 import { useQuery } from '@apollo/react-hooks';
 
 import ProductItem from "../ProductItem";
-import { useStoreContext } from "../../utils/GlobalState";
+// import { useStoreContext } from "../../utils/GlobalState";
+import {useSelector, useDispatch} from 'react-redux';
 import { UPDATE_PRODUCTS } from "../../utils/actions";
 import { QUERY_PRODUCTS } from "../../utils/queries";
 import spinner from "../../assets/spinner.gif";
@@ -10,7 +11,9 @@ import spinner from "../../assets/spinner.gif";
 import { idbPromise } from "../../utils/helpers";
 
 function ProductList() {
-  const [state, dispatch] = useStoreContext();
+  // const [state, dispatch] = useStoreContext();
+  const state = useSelector(state => state);
+  const dispatch = useDispatch();
 
   const { currentCategory } = state;
 
