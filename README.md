@@ -17,7 +17,6 @@ Deployed Application: [https://shop-shop-kyle.herokuapp.com/](https://shop-shop-
 
 ## Installation
 
-- Navigate to [https://github.com/reynolkb/shop-shop](https://github.com/reynolkb/shop-shop).
 - Click the 'code' button and download the zip file.
 - Unzip the file on your computer.
 
