@@ -6,8 +6,6 @@
 
 This is an online shop that allows the user to create an account, login, add items to their cart and checkout.
 
-Deployed Application: [https://shop-shop-kyle.herokuapp.com/](https://shop-shop-kyle.herokuapp.com/)
-
 ## Table of Contents
 
 - [Installation](#installation)
