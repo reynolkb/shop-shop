@@ -6,7 +6,7 @@
 
 This is an online shop that allows the user to create an account, login, add items to their cart and checkout.
 
-Deployed Application: [https://shop-shop-kyle.herokuapp.com/](https://shop-shop-kyle.herokuapp.com/)
+
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ Deployed Application: [https://shop-shop-kyle.herokuapp.com/](https://shop-shop-
 - [License](#license)
 
 ## Installation
-
+- Navigate to [https://github.com/reynolkb/shop-shop](https://github.com/reynolkb/shop-shop).
 - Click the 'code' button and download the zip file.
 - Unzip the file on your computer.
 
