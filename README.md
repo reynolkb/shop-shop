@@ -6,7 +6,7 @@
 
 This is an online shop that allows the user to create an account, login, add items to their cart and checkout.
 
-
+Deployed Application: [https://shop-shop-kyle.herokuapp.com/](https://shop-shop-kyle.herokuapp.com/)
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ Once you've downloaded the code open the zipped folder in an IDE.
 
 Then run 'npm install' and you will need to create your own .env file to hook it up to your MongoDB. Once that is done you can run 'npm start' to start the application.
 
-![screenshot of application](./screenshot.png)
+
 
 ## Credits
 
